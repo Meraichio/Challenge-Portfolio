@@ -12,15 +12,15 @@
 
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
-| Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
+| Planning    | Planning maken                                 | 00:15 u             | Af     |
+| Ontwerpen   | Mockup van portfolio maken                     | 01:00 u             | Bezig  |
+| ...         | Styling van elementen bepalen                  | 00:45 u             |        |
+| Realiseren  | Bestanden aanmaken                             | 00:20 u             |        |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
+| Testen      | Applicatie testen                              | 00:30 u             |        |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:15 u             |        |
 | ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
+| Presenteren |                                                | 00:20 u             |        |
 | ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Refecteren  | Reflectiedocument schrijven                    | 00:30 u             |        |
